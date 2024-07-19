@@ -4,7 +4,7 @@
 
 The cMamba model is an unofficial implementation based on the state-of-the-art methodologies proposed in recent research. This implementation integrates key advancements from two significant papers:
 
-1. [C-Mamba: Efficient Context Modeling with Mamba](https://arxiv.org/abs/2406.05316v1) (2023)
+1. [C-Mamba: Efficient Context Modeling with Mamba](https://arxiv.org/abs/2406.05316v1) (2024)
 2. [Linear Time-Sequence Modeling with Mamba](https://arxiv.org/abs/2312.00752v2) (2023)
 
 ## Features
