@@ -2,10 +2,10 @@
 
 ## Overview
 
-The cMamba model is an unofficial implementation based on the state-of-the-art methodologies proposed in recent research. This implementation integrates key advancements from two significant papers:
+The cMamba code outlined is for an unofficial implementation based on the SoTA methodologies proposed in recent state-space model research. This implementation integrates key advancements from two significant papers:
 
 1. [C-Mamba: Efficient Context Modeling with Mamba](https://arxiv.org/abs/2406.05316v1) (2024)
-2. [Linear Time-Sequence Modeling with Mamba](https://arxiv.org/abs/2312.00752v2) (2023)
+2. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752v2) (2023)
 
 with help from [johnma2006](https://github.com/johnma2006/mamba-minimal/) for the original Mamba implementation in pure pytorch
 
